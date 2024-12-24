@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since the dawn of e-commerce – With a deep passion for optimizing logistics and driving efficiencies, I have been continuously adapting to the evolving digital landscape.<br><br>📚 Currently learning – Exploring the latest trends in artificial intelligence and automation within logistics to help businesses streamline their operations and remain competitive in the digital era.<br><br>🎯 Goals – To assist businesses in building strong online presences, improving customer retention through CRM strategies, and achieving cost-effective logistics operations. I am also focused on helping companies leverage LinkedIn branding strategies to stand out and achieve business growth.<br><br>🎲 Fun fact – When I’m not optimizing supply chains or crafting digital marketing strategies, you can find me experimenting with new tech gadgets or learning how to balance work with play!</p>
 
 ###
 
